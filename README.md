@@ -7,7 +7,7 @@
 
 - 📚 Currently learning and practicing **Data Structures and Algorithms**
 
-- 📚 Passionate about building software that solves **real-world problems**
+- 📚 Passionate about building software that solves **Real-world problems**
 
 - 🤝👯 I’m looking to collaborate on [Open Source projects](Open Source projects)
 
