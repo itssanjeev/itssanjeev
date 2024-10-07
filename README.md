@@ -11,7 +11,7 @@
 
 - 🤝👯 I’m looking to collaborate on [Open Source projects](Open Source projects)
 
-- 💬 Ask me about ... 💻 C++ | JavaScript | React.js | SQL | DSA | DBMS | OOPS | MYSQL |
+- 💬 Ask me about ... 💻 C | C++ | JavaScript | React.js | SQL | DSA | DBMS | OOPS | MYSQL | PYTHON |
 
 - 🌱 I’m currently learning **MERN STACK**
 
