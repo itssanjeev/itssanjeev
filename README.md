@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssanjeev&label=Profile%20views&color=0e75b6&style=flat" alt="itssanjeev" /> </p>
 
-- 🔭 SDE Intern at **DEIN Trade2Go LLP**
+- 🔭 Software Developer  at **Growth Grids**
 
 - 📚 Currently learning and practicing **Data Structures and Algorithms**
 
